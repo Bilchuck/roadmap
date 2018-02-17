@@ -50,7 +50,7 @@
 
 #### Algorithms
 - [ ] [Algorithms and Data Structures](https://www.ozon.ru/context/detail/id/6146670/) by Niklaus Wirth
-- [ ] [Introduction to Algorithms](https://www.ozon.ru/context/detail/id/33769775/) by Thomas Cormen, Charles Leiserson, Ronald Rivest and Clifford Stein
+- [X] [Introduction to Algorithms](https://www.ozon.ru/context/detail/id/33769775/) by Thomas Cormen, Charles Leiserson, Ronald Rivest and Clifford Stein
 - [ ] [The Algorithm Design Manual](https://www.ozon.ru/context/detail/id/1830000/) by Steven Skiena
 - [ ] [Analysis of Algorithms: An Active Learning Approach](https://www.ozon.ru/context/detail/id/4523340/) by Jeffrey McConnell
 - [ ] [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
